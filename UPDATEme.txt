@@ -1,0 +1,6 @@
+# Admission-Enquiry-System
+This is a normal simulator of Admission Enquiry in a particular University.
+In this Repository you can update the code without changing in .cpp file.
+You just have to made changes in files like Colleges.txt & more.
+You have to know about the format of writing data in files.
+For this i have uploaded the Sample.txt file.
