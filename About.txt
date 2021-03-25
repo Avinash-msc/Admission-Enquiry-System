@@ -1,0 +1,18 @@
+====================================================== Delhi University ==============================================================
+
+ The University of Delhi, informally known as Delhi University (DU), is a collegiate public central university located in New Delhi, 
+ India. It was founded in 1922 by an Act of the Central Legislative Assembly and is recognized as an Institute of Eminence (IoE) by 
+ the University Grants Commission (UGC). As a collegiate university, its main functions are divided between the academic departments 
+ of the university and affiliated colleges. Consisting of three colleges, two faculties, and 750 students at its founding, the 
+ University of Delhi has since become India's largest institution of higher learning and among the largest in the world.The university 
+ has 16 faculties and 86 departments distributed across its North and South campuses. It has 77 affiliated colleges and five other 
+ institutes. The Vice-President of India serves as the University's chancellor.
+
+ Though the colleges are all constituent to the University of Delhi, as it is a collegiate university, 
+ depending upon the funding Delhi Colleges broadly fall into three categories:
+
+ Colleges established by Educational or Charitable Trusts.
+ Colleges maintained by Delhi Administration, which acts as trust for them.
+ Colleges maintained by University of Delhi.
+ The colleges maintained by university get 100% deficit maintenance grant while the colleges run by trusts get 95% deficit grants.
+ The colleges provide the good facility for their students related to their course.

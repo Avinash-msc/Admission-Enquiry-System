@@ -1,0 +1,7 @@
+5
+1. B.A. (Hons) English
+2. B.A. (Hons) Hindi
+3. B.Com (Hons)
+4. B.Sc (Hons) Computer Science
+5. B.Sc (Hons) Maths
+6. B.Sc (Hons) Environmental Science

@@ -1,0 +1,40 @@
+			
+				A.E.S. Data	
+
+
+Colleges :- 
+		1. Gargi College (Only for Girls)
+		2. Hansraj College
+		3. Hindu College
+		4. Miranda College (Only for Girls)
+		5. Ramanujan College
+
+
+Courses :-
+		A. B.A. (Hons) English
+		B. B.A. (Hons) Hindi
+		C. B.Com (Hons) 
+		D. B.Sc (Hons) Computer Science
+		E. B.Sc (Hons) Maths
+
+
+Eligibility Criteria :-
+
+		     	1.  2.  3.  4.  5.
+
+		A.  	85, 90, 93, 89, 84
+		B.  	86, 91, 94, 88, 85
+		C.  	80, 89, 85, 84, 86
+		D.  	78, 86, 85, 81, 80
+		E.  	80, 85, 88, 84, 82
+
+
+Seats :-
+     			1.  2.  3.  4.  5.
+
+		A.  	50, 55, 55, 55, 50
+		B.  	55, 50, 55, 50, 55
+		C.  	60, 55, 60, 55, 60
+		D.  	50, 60, 55, 60, 60
+		E.  	55, 60, 60, 55, 55
+		 
